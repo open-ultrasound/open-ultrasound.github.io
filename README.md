@@ -4,4 +4,4 @@ We're getting spun up now.
 
 ![alt text](OpenImage.png "Logo Title Text 1")
 
-[Visit Our Github](https://github.com/open-ultrasound/open-ultrasound.github.io)
+[Visit Our Github](https://github.com/open-ultrasound)
