@@ -61,3 +61,5 @@ To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/prod
 The figure below shows how we plan to integrate and control the core components described above into the initial Open Image prototype. 
 
 ![Open Image Block Diagram](img/OpenImageBlockDiagram.png "Open Image Block Diagram")
+
+Want to comment on, edit, or view the history of this document, visit it on [GitHub](https://github.com/open-ultrasound/open-ultrasound.github.io/edit/master/hardwareIntro.md).
