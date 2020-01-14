@@ -4,5 +4,5 @@ Open Image is a project of [Creare](https://www.creare.com) working in collabora
 This project is supported by [The National Institute of Biomedical Imaging and Bioengineering](https://www.nibib.nih.gov/) via STTR contract 1R41EB29285-01 
 
 ## License
-Open Image is licensed under the Apache License 2.0
+Open Image is licensed under the [Apache License 2.0](license.html)
 
