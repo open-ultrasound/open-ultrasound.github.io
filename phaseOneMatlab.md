@@ -1,10 +1,16 @@
-This document specifies a Matlab interface to the Phase I Open Image controller. It is intended that most firmware functionality can be derived from this specification.
+# Phase I Software Introduction
 
-Frame: enough data to generate a single image
-Shot: one transmit/receive cycle; there may be many (perhaps 100's) of shots per frame
-Channel: corresponds to one element on the ultrasound transducer
+This document specifies a Matlab interface to the Phase I Open Image controller. It is intended that most firmware functionality can be derived from this specification. A Phython interface with similar functionality and features may be developed, pending time and resources.
 
-Note: it is still TBD how to handle multiple frames. Will discuss. Perhaps we limit ourselves to one frame in Phase I.
+## Definitions:
+
+**Frame**: enough data to generate a single brightness-mode image
+
+**Shot**: one transmit/receive cycle; there may be many (perhaps 100's) of shots per frame
+
+**Channel**: corresponds to one element on the ultrasound transducer. There is one-to-one mapping between transducer channels, transmit channels, and receive channels.
+
+*Note*: it is still TBD how to handle multiple frames. Will discuss. Perhaps we limit ourselves to one frame at a time in Phase I.
 
 ```matlab
 %% Transmit Side:
