@@ -1,9 +1,9 @@
 - name: About
   link: about.html
-- name: Content
+- name: Introduction
   link: /#
   dropdown:
-    - name: Hardware Specs
-      link: /page-1/
-    - name: Page No Sidebar
+    - name: Hardware Intro
+      link: indroduction/hardwareIntro.html
+    - name: Software UI Intro
       link: /page-2/
