@@ -7,3 +7,5 @@
       link: indroduction/hardwareIntro.html
     - name: Software UI Intro
       link: introduction/phaseOneMatlab.html
+- name: Team
+  link: team.html
