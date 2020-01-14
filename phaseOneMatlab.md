@@ -55,3 +55,4 @@ end
 
 oi.close; %closes connection with device
 ```
+Want to comment on, edit, or view the history of this document? Visit it on [GitHub](https://github.com/open-ultrasound/open-ultrasound.github.io/edit/master/phaseOneMatlab.md).
