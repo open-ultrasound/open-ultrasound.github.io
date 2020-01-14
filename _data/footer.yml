@@ -1,0 +1,8 @@
+- name: Open Image
+  link: /index.html
+- name: Contact
+  link: /contact.html
+- name: Github
+  link: https://github.com/open-ultrasound
+- name: Legal
+  link: /legal.html
