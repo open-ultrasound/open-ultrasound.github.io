@@ -5,7 +5,7 @@ This document discusses the basic characteristics of the major hardware componen
 
 The figure below shows the core components of an imaging ultrasound system. A multi-element transducer is excited with a high voltage (order 100 Volt) waveform through a transmit / receive (T/R) switch. This voltage causes the transducer element to expand and contract via the [piezoelectric effect](https://en.wikipedia.org/wiki/Piezoelectricity) - launching an ultrasound wave. After firing, the T/R switch flips to the receive pathway. Ultrasound reflections (echos), when they return to the transducer, expand and compress the transducer element, generating a voltage (also via the piezoelectric effect). This voltage is conditioned by an analog front end (AFE). The AFE typically includes multiple gain and filtering stages. Often the gain of one stage will vary with time after triggering; this [time-gain compensation](https://en.wikipedia.org/wiki/Time_gain_compensation) helps counteract losses due to waveform spreading and attenuation. The conditioned signal is then digitized by an [analog to digital converter](https://en.wikipedia.org/wiki/Analog-to-digital_converter) (ADC). A controller regulates the transmit excitation (voltage levels, waveform shape, and chanel-to-channel timing (e.g., for beam focusing)), the receive-side gains and filters, and handles the digitized data stream (possibly including additional signal conditioning and receive-side beam focusing). The controller may also further post-process the data to generate B-mode images. 
 
-![alt text](UltrasoundImagingBlockDiagram.png "Simplified Ultrasound Imaging System Block Diagram")
+![alt text](img/UltrasoundImagingBlockDiagram.png "Simplified Ultrasound Imaging System Block Diagram")
 
 The links below show simplified block diagrams of typical medical ultrasound imaging machines. In many ways, our system will look very similar to these:
 
@@ -60,4 +60,4 @@ To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/prod
 
 The figure below shows how we plan to integrate and control the core components described above into the initial Open Image prototype. 
 
-![Open Image Block Diagram](OpenImageBlockDiagram.png "Open Image Block Diagram")
+![Open Image Block Diagram](img/OpenImageBlockDiagram.png "Open Image Block Diagram")
