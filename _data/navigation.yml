@@ -1,5 +1,5 @@
 - name: About
-  link: /about/
+  link: about.html
 - name: Content
   link: /#
   dropdown:
