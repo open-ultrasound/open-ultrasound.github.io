@@ -2,4 +2,4 @@ remote_theme: chrisrhymes/bulma-clean-theme
 footer_menu: footer
 title: Open Image
 description: Open Designs for High-Performance Ultrasound
-#favicon: img/favicon.png
+favicon: true
