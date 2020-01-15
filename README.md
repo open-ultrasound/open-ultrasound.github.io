@@ -1,4 +1,4 @@
-## Welcome to Open Image, a Fully Open-Sourced Imaging Ultrasound Project
+## Welcome to Open Image, a Fully Open-Source Imaging Ultrasound Project
 
 We're getting spun up now; apologies for broken links and poor organization.
 
