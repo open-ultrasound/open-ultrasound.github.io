@@ -1,6 +1,8 @@
 - name: About
   link: about.html
 - name: Introduction
+- name: Blog
+  link: /blog/
   link: /#
   dropdown:
     - name: Hardware Intro
