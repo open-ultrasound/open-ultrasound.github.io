@@ -3,5 +3,10 @@ footer_menu: footer
 title: Open Image
 description: Open Designs for High-Performance Ultrasound
 favicon: favicon.png
+
 paginate: 5
 paginate_path: "/blog/page:num"
+
+markdown: kramdown
+highlighter: rouge
+
