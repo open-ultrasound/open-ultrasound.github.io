@@ -3,7 +3,7 @@ layout: post
 title:  "Customized Waveforms"
 subtitle: "Open Image Enables Transmit Waveform Customization"
 date: 2021-02-09
-image: '/assets/2020-10-01_Its_Alive/ItsAlive_320px.jpg'
+image: '/assets/2021-02-09-ultrasound-phantom/phantomAsmall.png'
 author: Jed
 ---
 
