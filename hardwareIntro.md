@@ -62,4 +62,7 @@ The figure below shows how we plan to integrate and control the core components 
 
 ![Open Image Block Diagram](img/OpenImageBlockDiagram.png "Open Image Block Diagram")
 
+The custom ultrasound module includes four 4-channel pulser ICs and two 8-channel ultrasound analog front end ICs. Below is a rendering of the board.  The module's electrical schematic and printed circuit layout can be found on our [GitHub](https://github.com/open-ultrasound/open-imager/tree/master/Hardware).  See our first [Blog Post](https://www.open-image.org/2020/10/01/its-alive.html) for photographs of the hardware in action!
+
+![Open Image Rendinering](img/OpenImageBoardRendering.png "Open Image Board Rendering)
 Want to comment on, edit, or view the history of this document? Visit it on [GitHub](https://github.com/open-ultrasound/open-ultrasound.github.io/edit/master/hardwareIntro.md).
