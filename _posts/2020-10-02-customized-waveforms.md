@@ -15,4 +15,19 @@ We measured the transmitted ultrasound pulses (from an Ultrasonix L14-5/38 trans
 
 Below are some sample results covering a wide range of pulse center frequencies, durations, and shapes. We have very good command over the excitation and the output waveform below the transducer's center frequency (5-6 MHz). Above that, the impulse response of the transducer begins to dominate. This is not unexpected.
 
-<img src="\assets\2020-10-02-customized-waveforms\4 MHz; 1 Pulse(s).png" style="width:400px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\4 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\5 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\6 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\7 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\8 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\9 MHz; 1 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\10 MHz; 1 Pulse(s).png" style="width:800px;"/>
+
+<img src="\assets\2020-10-02-customized-waveforms\3 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\4 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\5 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\6 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\7 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\8 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\9 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\10 MHz; 2.5 Pulse(s).png" style="width:800px;"/>
