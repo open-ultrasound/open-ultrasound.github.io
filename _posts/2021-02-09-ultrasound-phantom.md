@@ -7,11 +7,12 @@ image: '/assets/2021-02-09-ultrasound-phantom/phantomAsmall.png'
 author: Jed
 ---
 
-One of the benefits of the Open Image platform is the ability to fully customize your transmit waveforms. Our [pulser](http://ww1.microchip.com/downloads/en/DeviceDoc/20005639A.pdf) allows for five different amplitude settings (-V_2, -V_1, 0, +V_1, +V_2, where, for our system, V_2 = 80 V and V_1 = 40 V) sampled at 220 MHz.
+Ultrasound phantoms are as close to the "gold standard" for evaluating imaging system performance as there is.  Our collaborators at the [UIUC Bioacoustics Research Lab](https://www.brl.uiuc.edu/) sent us one of their ATS539 phantoms.  Here's a photograph of our test setup.
 
-We measured the transmitted ultrasound pulses (from an Ultrasonix L14-5/38 transducer couple to the Open Image prototype) in water using a [Precision Acoustics Needle Hydrophone](https://www.acoustics.co.uk/product-category/pressure-measurement/needle-hydrophones/):
+<img src="\assets\2021-02-09-ultrasound-phantom/phantomSetup.png" style="width:400px;"/>
 
-<img src="\assets\2020-10-02-customized-waveforms\hydrophoneSetup.png" style="width:400px;"/>
+Our prototype system is limited to 16 channels (while our imaging probe has 128 elements). 
+
 
 Below are some sample results covering a wide range of pulse center frequencies, durations, and shapes. We have very good command over the excitation and the output waveform below the transducer's center frequency (5-6 MHz). Above that, the impulse response of the transducer begins to dominate. This is not unexpected.
 
