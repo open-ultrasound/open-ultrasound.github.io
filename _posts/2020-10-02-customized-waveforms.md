@@ -11,8 +11,8 @@ One of the benefits of the Open Image platform is the ability to fully customize
 
 We measured the transmitted ultrasound pulses (from an Ultrasonix L14-5/38 transducer couple to the Open Image prototype) in water using a [Precision Acoustics Needle Hydrophone](https://www.acoustics.co.uk/product-category/pressure-measurement/needle-hydrophones/):
 
-<img src="\assets\2020-10-01_Its_Alive\ItsAlive.jpg" style="width:400px;"/>
+<img src="\assets\2020-10-02-customized-waveforms\hydrophoneSetup.png" style="width:400px;"/>
 
-Below are some sample results covering a wide range of pulse center frequencies, durations, and shapes:
+Below are some sample results covering a wide range of pulse center frequencies, durations, and shapes. We have very good command over the excitation and the output waveform below the transducer's center frequency (5-6 MHz). Above that, the impulse response of the transducer begins to dominate. This is not unexpected.
 
-<img src="\assets\2020-10-01_Its_Alive\ItsAlive.jpg" style="width:400px;"/>
+<img src="\assets\2020-10-02-customized-waveforms/4 MHz; 1 Pulse(s).png" style="width:400px;"/>
