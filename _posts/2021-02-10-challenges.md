@@ -3,7 +3,7 @@ layout: post
 title:  "Challenges and Oppurtunities"
 subtitle: "On Honest Discussion of the Open Image System's (Current) Limitations"
 date: 2021-02-10
-image: '/assets/2021-02-09-ultrasound-phantom/phantomAsmall.png'
+image: '/assets/2021-02-10-challenges/doubleImage.png'
 author: Jed
 ---
 
