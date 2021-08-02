@@ -25,12 +25,11 @@ Nevertheless, we obtained images of three sections of the phantom. The first was
 
 While not (yet) the quality one would expect from a commercial system, the key features of the phantom are present. Given our struggles overcoming the system's limitations, we were very pleased with this image. 
 
-The second 
+The second image is of the grayscale targets. The lack of real time feedback was particularly troublesome for this target group - we almost certainly used suboptimal gain settings for this run. 
 
+<img src="\assets\2021-02-09-ultrasound-phantom/phantomB.png" style="width:400px;"/>
 
-Our prototype system is limited to 16 channels (while our imaging probe has 128 elements). 
+Our third image is of the phantom's "resolution array>" Here the biggest challenge was the probe stuttering as the phantom moved below it. There are some promissing indications that our system performs well (particularly between 1 and 2 centimeters along the horiztonal axis) but there are two many double-images to make any firm conculsions. 
 
+<img src="\assets\2021-02-09-ultrasound-phantom/phantomC.png" style="width:400px;"/>
 
-Below are some sample results covering a wide range of pulse center frequencies, durations, and shapes. We have very good command over the excitation and the output waveform below the transducer's center frequency (5-6 MHz). Above that, the impulse response of the transducer begins to dominate. This is not unexpected.
-
-<img src="\assets\2020-10-02-customized-waveforms/4 MHz; 1 Pulse(s).png" style="width:400px;"/>
