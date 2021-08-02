@@ -11,7 +11,7 @@ Ultrasound phantoms are as close to the "gold standard" for evaluating imaging s
 
 <img src="\assets\2021-02-09-ultrasound-phantom/phantomSetup.png" style="width:400px;"/>
 
-There were a number of challenges with this setup. Most are related to those discussed in our "Challenges and Oppurtunities" blog post. 
+There were a number of challenges with this setup. Most are related to those discussed in our ["Challenges and Oppurtunities"](https://www.open-image.org/2021/02/10/challenges.html) blog post. 
 
 In particular, the 16-channel limitation required us to scan the ultrasound probe along the surface of the phantom (or else we'd only image a narrow, difficult to interpret "slice"). We placed the phantom on a linear translation stage in an attempt to move it relative to the probe in controlled steps. However (as anyone who has ever tried this will likely tell you), there is considerable stiction between the probe and the transducer. Swapping the coupling agent (water, mineral oil, and ultrasound gel) did not help. This caused the probe to "stutter" during scanning, resulting in uneven motion between subsequent 16-channel "images." One consequence of this is that we can sometimes see multiple images of the same target in the full reconstructed image:
 
