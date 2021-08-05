@@ -9,7 +9,9 @@ author: Jed
 
 Ultrasound phantoms are as close to the "gold standard" for evaluating imaging system performance as there is.  Our collaborators at the [UIUC Bioacoustics Research Lab](https://www.brl.uiuc.edu/) sent us one of their ATS539 phantoms.  Here's a photograph of our test setup.
 
+<a href="\assets\2021-02-09-ultrasound-phantom/phantomSetup.png">
 <img src="\assets\2021-02-09-ultrasound-phantom/phantomSetup.png" style="width:400px;"/>
+</a>
 
 There were a number of challenges with this setup. Most are related to those discussed in our ["Challenges and Oppurtunities"](https://www.open-image.org/2021/02/10/challenges.html) blog post. 
 
