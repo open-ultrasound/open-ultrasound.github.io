@@ -17,21 +17,28 @@ There were a number of challenges with this setup. Most are related to those dis
 
 In particular, the 16-channel limitation required us to scan the ultrasound probe along the surface of the phantom (or else we'd only image a narrow, difficult to interpret "slice"). We placed the phantom on a linear translation stage in an attempt to move it relative to the probe in controlled steps. However (as anyone who has ever tried this will likely tell you), there is considerable stiction between the probe and the transducer. Swapping the coupling agent (water, mineral oil, and ultrasound gel) did not help. This caused the probe to "stutter" during scanning, resulting in uneven motion between subsequent 16-channel "images." One consequence of this is that we can sometimes see multiple images of the same target in the full reconstructed image:
 
+<a href="\assets\2021-02-09-ultrasound-phantom/phantomAmisalign.png">
 <img src="\assets\2021-02-09-ultrasound-phantom/phantomAmisalign.png" style="width:400px;"/>
+</a>
 
 Another particularly troublesome challenge was the system's very low data rate. This, coupled with our narrow imaging window, made it essentially impossible to adjust imaging parameters (e.g., gains, TGC curves) in real time. As such, considerable room for optmization of image quality was likely left on the table. 
 
 Nevertheless, we obtained images of three sections of the phantom. The first was primarily of the anechoic targets:
 
+<a href="\assets\2021-02-09-ultrasound-phantom/PhantomA.png">
 <img src="\assets\2021-02-09-ultrasound-phantom/PhantomA.png" style="width:400px;"/>
+</a>
 
 While not (yet) the quality one would expect from a commercial system, the key features of the phantom are present. Given our struggles overcoming the system's limitations, we were very pleased with this image. 
 
 The second image is of the grayscale targets. The lack of real time feedback was particularly troublesome for this target group - we almost certainly used suboptimal gain settings for this run. 
 
+<a href="\assets\2021-02-09-ultrasound-phantom/phantomB.png">
 <img src="\assets\2021-02-09-ultrasound-phantom/phantomB.png" style="width:400px;"/>
+</a>
 
 Our third image is of the phantom's "resolution array>" Here the biggest challenge was the probe stuttering as the phantom moved below it. There are some promissing indications that our system performs well (particularly between 1 and 2 centimeters along the horiztonal axis) but there are two many double-images to make any firm conculsions. 
 
+<a href="\assets\2021-02-09-ultrasound-phantom/phantomC.png">
 <img src="\assets\2021-02-09-ultrasound-phantom/phantomC.png" style="width:400px;"/>
-
+</a>
