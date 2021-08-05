@@ -21,7 +21,7 @@ Another particularly troublesome challenge was the system's very low data rate. 
 
 Nevertheless, we obtained images of three sections of the phantom. The first was primarily of the anechoic targets:
 
-<img src="\assets\2021-02-09-ultrasound-phantom/phantomA.png" style="width:400px;"/>
+<img src="\assets\2021-02-09-ultrasound-phantom/PhantomA.png" style="width:400px;"/>
 
 While not (yet) the quality one would expect from a commercial system, the key features of the phantom are present. Given our struggles overcoming the system's limitations, we were very pleased with this image. 
 
