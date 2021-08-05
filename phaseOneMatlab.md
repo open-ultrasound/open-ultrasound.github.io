@@ -1,6 +1,8 @@
 # Phase I Software Introduction
 
-This document specifies a Matlab interface to the Phase I Open Image controller. It is intended that most firmware functionality can be derived from this specification. A Phython interface with similar functionality and features may be developed, pending time and resources.
+This document specifies a Matlab interface to the Phase I Open Image controller. It is intended that most firmware functionality can be derived from this specification.
+
+Upadate: See [our GitHub](https://github.com/open-ultrasound/Post-Processing/blob/master/Matlab/scripts/oi_example_script.m) for the as-implemented interface.
 
 ## Definitions:
 
